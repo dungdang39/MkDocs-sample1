@@ -1,25 +1,25 @@
-# My MkDocs Documentation
+# 그누보드6
 
-Welcome to my MkDocs documentation! This is the main page of the documentation.
+## 소개
 
-## Getting Started
+나의 제품에 대한 공식 문서에 오신 것을 환영합니다! 이 문서는 나의 제품을 사용하고 구성하는 방법에 대한 자세한 정보를 제공합니다.
 
-To get started with MkDocs, you can follow these steps:
+## 시작하기
 
-1. Install MkDocs using `pip install mkdocs`.
-2. Create a new MkDocs project with `mkdocs new my-project`.
-3. Edit the `docs/index.md` file to customize your documentation.
+### 설치
 
-## Adding a New Page
+나의 제품을 설치하려면 다음 단계를 따라주세요:
 
-You can add new pages by creating additional Markdown files in the `docs` directory. MkDocs will automatically include them in the documentation.
+1. [공식 웹사이트](https://example.com/download)에서 최신 릴리스를 다운로드합니다.
+2. 설치 프로그램을 실행하고 화면 안내에 따릅니다.
 
-## Customizing the Theme
+### 설정
 
-You can customize the appearance of your documentation by editing the `mkdocs.yml` file. Choose a theme and configure the settings according to your preferences.
+설치가 완료되면 `config.yml` 파일을 편집하여 나의 제품을 구성할 수 있습니다. 일반적인 구성 예시는 다음과 같습니다:
 
-For more information, check out the [MkDocs documentation](https://www.mkdocs.org/).
-
-Happy documenting!
-
-
+```yaml
+# 샘플 구성
+서버:
+    포트: 8080
+    호스트네임: localhost
+```
