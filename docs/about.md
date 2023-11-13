@@ -1,4 +1,4 @@
-# My MkDocs Documentation
+# About
 
 Welcome to my MkDocs documentation! This is the main page of the documentation.
 
@@ -21,5 +21,3 @@ You can customize the appearance of your documentation by editing the `mkdocs.ym
 For more information, check out the [MkDocs documentation](https://www.mkdocs.org/).
 
 Happy documenting!
-
-
